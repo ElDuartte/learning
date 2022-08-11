@@ -1,2 +1,5 @@
 # learning
-+ Rust
+
+- Rust
+- Async JavaScript
+- TypeScript
