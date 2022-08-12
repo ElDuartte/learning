@@ -1,4 +1,16 @@
 {
+  "name": "01-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node ./01-config/src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "juan felipe jf@duartte.co",
+  "license": "MIT",
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
   }
